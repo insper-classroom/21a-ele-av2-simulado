@@ -1,0 +1,14 @@
+#############################################################################
+#
+# 1c (5 HW / 10 SW)
+#
+# A ULA do MIPS não fornece a informação que uma saída é menor que zero, ela
+# possui apenas o sinal zr (zero) e não tem o ng (not greater) como a ULA do
+# Z01.1.
+#
+# Como você faria usando está ULA para saber se um sinal (digamos A) é menor
+# que zero (ng = '1')?
+#
+#############################################################################
+
+RESPOSTA AQUI:
